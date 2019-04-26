@@ -6,4 +6,6 @@ Creating a new branch is quick AND simple.
 add merge again
 test non-fast merge
 change on dev
-change on dev
+fixes bug
+no change
+yyy
